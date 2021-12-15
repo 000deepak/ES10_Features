@@ -1,9 +1,8 @@
+//ES10 features are
 //1.flat()
 //2.flatmap()
 //3.Object.fromEntries
 //4.Optional catch binding
-
-
 
 //The flat() -method enables you to easily concatenate all sub-array elements of an array
 arr = [10, [20, [30]]];
